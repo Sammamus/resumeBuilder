@@ -1,0 +1,188 @@
+{
+  "personal_details": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "phone_number": "123-456-7890",
+    "address": "123 Main Street",
+    "city": "Anytown",
+    "state": "State",
+    "github_link": "https://github.com/johndoe"
+  },
+  "positions": {
+    "Organization A": {
+      "title": "Position Title A",
+      "company": "Organization A",
+      "start_month": "January",
+      "start_year": "2000",
+      "present": false,
+      "end_month": "December",
+      "end_year": "2005",
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4"
+      ],
+      "functions": [
+        "Performed task 1.",
+        "Led and managed task 2.",
+        "Implemented process improvements for task 3.",
+        "Ensured compliance with safety and operational standards."
+      ]
+    },
+    "Organization B": [
+      {
+        "title": "Position Title B1",
+        "company": "Organization B",
+        "start_month": "February",
+        "start_year": "2006",
+        "present": false,
+        "end_month": "March",
+        "end_year": "2008",
+        "skills": [
+          "Skill 5",
+          "Skill 6",
+          "Skill 7"
+        ],
+        "functions": [
+          "Provided support for task 4.",
+          "Resolved customer issues.",
+          "Assisted in technical troubleshooting."
+        ]
+      },
+      {
+        "title": "Position Title B2",
+        "company": "Organization B",
+        "start_month": "April",
+        "start_year": "2008",
+        "present": false,
+        "end_month": "May",
+        "end_year": "2010",
+        "skills": [
+          "Skill 8",
+          "Skill 9",
+          "Skill 10"
+        ],
+        "functions": [
+          "Monitored and maintained system operations.",
+          "Developed automation scripts.",
+          "Improved deployment processes."
+        ]
+      }
+    ],
+    "Organization C": {
+      "title": "Position Title C",
+      "company": "Organization C",
+      "start_month": "June",
+      "start_year": "2010",
+      "present": false,
+      "end_month": "July",
+      "end_year": "2012",
+      "skills": [
+        "Skill 11",
+        "Skill 12",
+        "Skill 13"
+      ],
+      "functions": [
+        "Managed infrastructure and networking.",
+        "Developed and maintained automation tools.",
+        "Optimized cloud-based solutions."
+      ]
+    },
+    "Organization D": {
+      "title": "Position Title D",
+      "company": "Organization D",
+      "start_month": "August",
+      "start_year": "2012",
+      "present": false,
+      "end_month": "September",
+      "end_year": "2014",
+      "skills": [
+        "Skill 14",
+        "Skill 15",
+        "Skill 16"
+      ],
+      "functions": [
+        "Designed and implemented microservices.",
+        "Built CI/CD pipelines.",
+        "Maintained containerized applications."
+      ]
+    },
+    "Organization E": {
+      "title": "Position Title E",
+      "company": "Organization E",
+      "start_month": "October",
+      "start_year": "2014",
+      "present": false,
+      "end_month": "November",
+      "end_year": "2016",
+      "skills": [
+        "Skill 17",
+        "Skill 18",
+        "Skill 19"
+      ],
+      "functions": [
+        "Automated infrastructure provisioning.",
+        "Maintained database backups.",
+        "Improved system reliability and scalability."
+      ]
+    },
+    "Organization F": {
+      "title": "Position Title F",
+      "company": "Organization F",
+      "start_month": "December",
+      "start_year": "2016",
+      "present": false,
+      "end_month": "January",
+      "end_year": "2019",
+      "skills": [
+        "Skill 20",
+        "Skill 21",
+        "Skill 22"
+      ],
+      "functions": [
+        "Built cloud infrastructure from scratch.",
+        "Migrated applications to containerized solutions.",
+        "Maintained CI/CD pipelines."
+      ]
+    },
+    "Organization G": {
+      "title": "Position Title G",
+      "company": "Organization G",
+      "start_month": "February",
+      "start_year": "2019",
+      "present": false,
+      "end_month": "March",
+      "end_year": "2021",
+      "skills": [
+        "Skill 23",
+        "Skill 24",
+        "Skill 25"
+      ],
+      "functions": [
+        "Automated cloud components.",
+        "Improved infrastructure on Kubernetes.",
+        "Provided operational support for cloud environments."
+      ]
+    },
+    "Organization H": {
+      "title": "Position Title H",
+      "company": "Organization H",
+      "start_month": "April",
+      "start_year": "2021",
+      "present": true,
+      "end_month": "",
+      "end_year": "",
+      "skills": [
+        "Skill 26",
+        "Skill 27",
+        "Skill 28"
+      ],
+      "functions": [
+        "Developed automation tools.",
+        "Maintained Kubernetes infrastructure.",
+        "Migrated pipelines to new platforms."
+      ]
+    }
+  }
+}
